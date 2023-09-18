@@ -41,7 +41,7 @@ def merge(lista, inicio, meio, fim):
         idxDir += 1
         k += 1
 
-lista = [7, 5, 4, 1, 2, 3, 10, 9, 8]
+lista = [7, 5, 4, 1, 2, 3, 10, 9, 8, 0]
 print(f'Lista: {lista}')
 mergesort(lista, 0, len(lista) - 1)
 print(f'Lista ordenada: {lista}')
