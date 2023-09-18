@@ -1,1 +1,1 @@
-Pasta referente aos códigos dos algoritmos com a estratégia de divisão em conquista em Python.
+Pasta referente aos códigos dos algoritmos com a estratégia de divisão e conquista em Python.
